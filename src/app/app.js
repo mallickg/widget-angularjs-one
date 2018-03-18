@@ -24,7 +24,7 @@ let component = () => {
 
 class AppCtrl {
   constructor() {
-    this.name = 'Angular 1';
+    this.name = 'Widget 1';
     this.logo = logoIcon;
   }
 }
