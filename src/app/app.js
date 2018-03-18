@@ -40,4 +40,6 @@ document.addEventListener('DOMContentLoaded', function () {
     angular.bootstrap(document.getElementById("widget1"), ['app1']);
 });
 
+// TODO Can we use routes ?
+
 export default MODULE_NAME;
